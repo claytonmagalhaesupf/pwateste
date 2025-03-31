@@ -1,6 +1,6 @@
 const staticPwaADS = "cache_web_app_ads_upf"
 const assets = [
- "/",
+ "/pwateste",
  "pwateste/index.html",
  "pwateste/pwateste/formulario.html",
  "pwateste/pwateste/outros.html",
